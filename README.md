@@ -6,6 +6,7 @@
 3. Pull Request & Merging, Branching Strategies
 4. Hooks (Pre-commit Hooks)
 5. GitLab vs BitBucket. What's the difference?
+6. [PROJECT](https://github.com/wasim-hassan/Appetizzer-Website) Deploying a website using GitHub Action and AWS S3 Bucket
 
 
 ## Git & GitHub setup
